@@ -1,0 +1,25 @@
+
+header {
+  background-color: #25264E;
+}
+
+main {
+  background-color: #45466B;
+}
+
+.container {
+  padding: 20px;
+}
+
+.nav-link{
+  color: white;
+}
+
+
+/*---- MEDIA QUERIES ---- */
+
+@media screen and (max-width: 1199px) {
+
+.card {
+    margin: 20px;
+  }
